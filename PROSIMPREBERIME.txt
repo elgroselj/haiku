@@ -1,0 +1,13 @@
+Dober dan,
+
+prilagam sledeče:
+
+ -pdf
+ -cpp
+ -sskj.csv, ki je vsebuje vhodne podatke za cpp
+ -py, ki je dostopen tudi na:
+	https://colab.research.google.com/drive/1nAFqLoc6JR5-05K89cuaIAoKdfbuyzKX
+	od koder se ga lahko požene v google colabu (najbolje deluje v Chromu)
+ -zbirka.txt pa je zbirka haikujev, iz katere se uči
+
+Lp, Grošelj
